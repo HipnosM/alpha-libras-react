@@ -1,5 +1,5 @@
 import styles from "./Header.module.css";
-import logo from "../assets/libras.png";
+import logo from "../../assets/libras.png";
 
 export default function Header() {
     return (
