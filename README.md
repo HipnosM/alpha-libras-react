@@ -10,4 +10,4 @@
   - CSS3
   - Git
 
-  <img src="/assets/screenshot.png" alt="screenshot do projeto" />
+  <img src="/public/image.png" alt="screenshot do projeto" />
