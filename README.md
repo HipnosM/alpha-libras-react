@@ -1,8 +1,13 @@
-# React + Vite
+# <a href="https://alpha-libras-react.vercel.app/" target="_blank">🔗AlphaLibras</a> _(Ctrl+Clique para abrir em nova aba)_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Sobre o projeto
+- Migração do [Projeto básico](https://github.com/HipnosM/projeto-html-css-fsm3/) para <strong>React<strong>
 
-Currently, two official plugins are available:
+- ### Tecnologias utilizadas
+  - React + Vite
+    - React-router-dom, react-hooks, react-icons..
+  - JavaScript
+  - CSS3
+  - Git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <img src="/assets/screenshot.png" alt="screenshot do projeto" />
