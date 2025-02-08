@@ -78,7 +78,7 @@ export default function Alfabeto() {
                         padding: '5px 10px'
                     }}>
                         <Tab>A - M</Tab>
-                        -
+                        |
                         <Tab>N - Z</Tab>
                     </TabList>
                 </div>

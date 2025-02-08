@@ -1,0 +1,43 @@
+footer {
+    background-color: #001a5e;
+    padding: 1rem;
+    color: #abb0cd;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    text-align: center;
+
+    & ul {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+
+        & a {
+            width: 100%;
+            color: #abb0cd;
+            text-decoration: none;
+            padding: .37rem .75rem;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+
+    & .socials {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1rem;
+
+        & a {
+            color: #abb0cd;
+            text-decoration: none;
+            padding: .37rem .75rem;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
